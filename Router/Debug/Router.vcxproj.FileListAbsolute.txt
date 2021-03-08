@@ -1,0 +1,2 @@
+D:\vsproject\Router\Debug\Router.exe
+D:\vsproject\Router\Debug\Router.pdb
